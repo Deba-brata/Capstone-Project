@@ -1,0 +1,33 @@
+|-- AccountPictures
+    |-- desktop.ini
+    |-- S-1-5-21-1964555312-2703270078-3189057070-1001
+        |-- {2D58059A-7EC7-466E-A229-6F17DA778FC2}-Image1080.jpg
+        |-- {2D58059A-7EC7-466E-A229-6F17DA778FC2}-Image192.jpg
+        |-- {2D58059A-7EC7-466E-A229-6F17DA778FC2}-Image208.jpg
+        |-- {2D58059A-7EC7-466E-A229-6F17DA778FC2}-Image240.jpg
+        |-- {2D58059A-7EC7-466E-A229-6F17DA778FC2}-Image32.jpg
+        |-- {2D58059A-7EC7-466E-A229-6F17DA778FC2}-Image40.jpg
+        |-- {2D58059A-7EC7-466E-A229-6F17DA778FC2}-Image424.jpg
+        |-- {2D58059A-7EC7-466E-A229-6F17DA778FC2}-Image448.jpg
+        |-- {2D58059A-7EC7-466E-A229-6F17DA778FC2}-Image48.jpg
+        |-- {2D58059A-7EC7-466E-A229-6F17DA778FC2}-Image64.jpg
+        |-- {2D58059A-7EC7-466E-A229-6F17DA778FC2}-Image96.jpg
+|-- Desktop
+    |-- desktop.ini
+    |-- Google Chrome.lnk
+    |-- Microsoft Edge.lnk
+    |-- VLC media player.lnk
+|-- desktop.ini
+|-- Documents
+    |-- desktop.ini
+|-- Downloads
+    |-- desktop.ini
+|-- Libraries
+    |-- desktop.ini
+    |-- RecordedTV.library-ms
+|-- Music
+    |-- desktop.ini
+|-- Pictures
+    |-- desktop.ini
+|-- Videos
+    |-- desktop.ini
